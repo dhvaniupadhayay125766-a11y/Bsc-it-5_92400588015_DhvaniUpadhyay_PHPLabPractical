@@ -1,0 +1,5 @@
+<html lang="en">
+    <body>
+        <?php
+            "Select REPET('PHP',3) AS REpeat
+            
