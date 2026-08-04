@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+     <h2>Calculator</h2>
+    <form action = "POST">
+        number 1: <input type="number" name="num1" required><br><br>
+        <select value = "">
+            <option name = "add"  id = "add">+</option>
+            <option name = "sub"  id = "sub">-</option>
+            <option name = "mul"  id = "mul">*</option>
+            <option name = "div"  id = "div">/</option>
+        </select>
+        </br>
+        </br>
+        <input type = "Submit" value = "Answer">
+    </form>
+</body>
+</html>
